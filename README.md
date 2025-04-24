@@ -19,7 +19,7 @@
 
  &nbsp;
 
-**Heute habe ich...**
+**Heute habe ich...**                              
 ...
 
 &nbsp;
