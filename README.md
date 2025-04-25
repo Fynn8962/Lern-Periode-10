@@ -6,13 +6,13 @@
 ## Grob-Planung
 
 **1. Welche Programmiersprache möchten Sie verwenden? Was denken Sie, wo Ihre Zeit und Übung am sinnvollsten ist?**                        
-    - Ich würde gerne mein wissen in Python mehr vertiefen da ich die Möglichkeiten sehr spannend finde, Vor allem im Bezug auf ML.
+        - Ich würde gerne mein wissen in Python mehr vertiefen da ich die Möglichkeiten sehr spannend finde, Vor allem im Bezug auf ML.
     
 **2. Welche Datenbank-Technologie möchten Sie üben? Fühlen Sie sich sicher mit SQL und möchten etwas Neues ausprobieren; oder möchten Sie sich weiter mit SQL beschäftigen?**   
-    - Da ich ein Projekt mit ML machen will möchte ich eine neue Datenbank-Technologie verwenden wie z.B MongoDB.
+        - Da ich ein Projekt mit ML machen will möchte ich eine neue Datenbank-Technologie verwenden wie z.B MongoDB.
     
 **3. Was wäre ein geeignetes Abschluss-Projekt?**                                         
-    - Ein Projekt mittels Python im Bezug auf ML. Es soll eine Art 'Porsche-911 Akinator' sein. Das Modell hat einen Datensatz über bisherig gebaute Porsche-911 Modelle. Der      Benutzer wird über Merkmal des 911er abgefragt an den er denkt oder den er gesehen hat. Findet das System den richtigen Porsche kann man eine Positive oder Negative bewertung geben. Das System trainiert dadruch den Empfehlungs-Algorithmus.              
+        - Ein Projekt mittels Python im Bezug auf ML. Es soll eine Art 'Porsche-911 Akinator' sein. Das Modell hat einen Datensatz über bisherig gebaute Porsche-911 Modelle. Der      Benutzer wird über Merkmal des 911er abgefragt an den er denkt oder den er gesehen hat. Findet das System den richtigen Porsche kann man eine Positive oder Negative bewertung geben. Das System trainiert dadruch den Empfehlungs-Algorithmus.              
 
 &nbsp;
  
