@@ -13,7 +13,7 @@
     
 **3. Was wäre ein geeignetes Abschluss-Projekt?**                                         
         - Ein Projekt mittels Python im Bezug auf ML. Es soll eine Art 'Porsche-911 Akinator' sein. Das Modell hat einen Datensatz über bisherig gebaute Porsche-911 Modelle.
-               Der Benutzer wird über Merkmal des 911er abgefragt an den er denkt oder den er gesehen hat. Findet das System den richtigen Porsche kann man eine Positive oder
+               Der Benutzer wird über Merkmal des 911er abgefragt an den er denk. Findet das System den richtigen Porsche kann man eine Positive oder
               Negative bewertung geben. Das System trainiert dadruch den Empfehlungs-Algorithmus.              
 
 &nbsp;
