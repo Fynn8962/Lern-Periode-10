@@ -114,7 +114,8 @@ Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Al
 
 &nbsp;
 
-**Heute habe ich...**
+**Heute habe ich...**           
+...
 
 &nbsp;
 
@@ -152,13 +153,6 @@ Bereiten Sie in den verbleibenden 2 AP Ihre Präsentation vor
 
  Vergessen Sie nicht, die Unterlagen für Ihre Präsentation auf github hochzuladen.
 
-## 27.06
-
-- [ ] ...
-- [ ] ...
-
-&nbsp;
-
-**Heute habe ich...**                              
-...  
+## 27.06          
+...
 
