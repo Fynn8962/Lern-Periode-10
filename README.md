@@ -6,7 +6,7 @@
 ## Grob-Planung
 
 **1. Welche Programmiersprache möchten Sie verwenden? Was denken Sie, wo Ihre Zeit und Übung am sinnvollsten ist?**                        
-        - Ich würde gerne mein wissen in Python mehr vertiefen da ich die Möglichkeiten sehr spannend finde, Vor allem im Bezug auf ML.
+       \t - Ich würde gerne mein wissen in Python mehr vertiefen da ich die Möglichkeiten sehr spannend finde, Vor allem im Bezug auf ML.
     
 **2. Welche Datenbank-Technologie möchten Sie üben? Fühlen Sie sich sicher mit SQL und möchten etwas Neues ausprobieren; oder möchten Sie sich weiter mit SQL beschäftigen?**   
         - Da ich ein Projekt mit ML machen will möchte ich eine neue Datenbank-Technologie verwenden wie z.B MongoDB.
