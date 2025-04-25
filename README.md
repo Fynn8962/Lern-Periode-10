@@ -23,11 +23,11 @@
 Welche 3 *features* sind die wichtigsten Ihres Projektes? Wie können Sie die Machbarkeit dieser in jeweils 45' am einfachsten beweisen?
 
 - [ ] *make or break feature* 1:
-      Fragesystem mit GUI zum 911er-Modell, mit JA/NEIN möglichkeit oder Multiple Choice.                  
+      Fragesystem mit GUI zum 911er-Modell, mit JA/NEIN möglichkeit oder Multiple Choice.                                 
       Umsetzung: Kleine Konsolen-Applikation mit ein paar Fragen welche beantwortet werden können. Gesammelte Merkmale werden am Schluss ausgegeben.      
-- [ ] *make or break feature* 2: Anhand Antworten ein oder mehrere 911er-Modelle herausfiltern.
+- [ ] *make or break feature* 2: Anhand Antworten ein oder mehrere 911er-Modelle herausfiltern.                             
       Umsetzung: Ein einfaches Datenset mit 5-10 911er Modellen und gewissen Merkmalen. Einen Filteralgorithmus welcher nach 10 Fragen das passenste Modell ausgibt.
-- [ ] *make or break feature* 3: Das Datenset der 911er-Modell enthält einheitliche Infromationen über jedes Modell.
+- [ ] *make or break feature* 3: Das Datenset der 911er-Modell enthält einheitliche Infromationen über jedes Modell.                            
       Umsetzung: 911er Datenset finden und die Daten überprüfen auf ihre Konsistenz und einheitlichkeit.
 
  &nbsp;
