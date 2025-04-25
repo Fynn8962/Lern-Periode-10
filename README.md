@@ -12,7 +12,7 @@
         - Da ich ein Projekt mit ML machen will möchte ich eine neue Datenbank-Technologie verwenden wie z.B MongoDB.
     
 **3. Was wäre ein geeignetes Abschluss-Projekt?**                                         
-        - Ein Projekt mittels Python im Bezug auf ML. Es soll eine Art 'Porsche-911 Akinator' sein. Das Modell hat einen Datensatz über bisherig gebaute Porsche-911 Modelle.
+        - Ein Projekt mittels Python im Bezug auf ML. Es soll eine Art 'Porsche-911 Akinator' sein. Das Modell hat einen Datensatz über Porsche-911 Modelle.
                Der Benutzer wird über Merkmal des 911er abgefragt an den er denk. Findet das System den richtigen Porsche kann man eine Positive oder
               Negative bewertung geben. Das System trainiert dadruch den Empfehlungs-Algorithmus.              
 
