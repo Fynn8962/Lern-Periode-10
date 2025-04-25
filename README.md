@@ -12,8 +12,8 @@
         - Da ich ein Projekt mit ML machen will möchte ich eine neue Datenbank-Technologie verwenden wie z.B MongoDB.
     
 **3. Was wäre ein geeignetes Abschluss-Projekt?**                                         
-        - Ein Projekt mittels Python im Bezug auf ML. Es soll eine Art 'Porsche-911 Akinator' sein. Das Modell hat einen Datensatz über Porsche-911 Modelle.
-               Der Benutzer wird über Merkmal des 911er abgefragt an den er denk. Findet das System den richtigen Porsche kann man eine Positive oder
+        - Ein Projekt mittels Python im Bezug auf ML. Es soll eine Art 'Porsche Akinator' sein. Das Modell hat einen Datensatz über Porsche Modelle.
+               Der Benutzer wird über Merkmal des Porsches abgefragt an den er denk. Findet das System den richtigen Porsche kann man eine Positive oder
               Negative bewertung geben. Das System trainiert dadruch den Empfehlungs-Algorithmus.              
 
 &nbsp;
@@ -26,8 +26,8 @@ Welche 3 *features* sind die wichtigsten Ihres Projektes? Wie können Sie die Ma
       Fragesystem mit GUI zum 911er-Modell, mit JA/NEIN möglichkeit oder Multiple Choice.                                 
       Umsetzung: Kleine Konsolen-Applikation mit ein paar Fragen welche beantwortet werden können. Gesammelte Merkmale werden am Schluss ausgegeben.      
 - [ ] *make or break feature* 2: Anhand Antworten ein oder mehrere 911er-Modelle herausfiltern.                             
-      Umsetzung: Ein einfaches Datenset mit 5-10 911er Modellen und gewissen Merkmalen. Einen Filteralgorithmus welcher nach 10 Fragen das passenste Modell ausgibt.
-- [ ] *make or break feature* 3: Das Datenset der 911er-Modell enthält einheitliche Infromationen über jedes Modell.                            
+      Umsetzung: Ein einfaches Datenset mit 5-10 Porsche Modellen und gewissen Merkmalen. Einen Filteralgorithmus welcher nach 10 Fragen das passenste Modell ausgibt.
+- [ ] *make or break feature* 3: Das Datenset der Porsche Modelle enthält einheitliche und brauchbare Infromationen über jedes Modell.                            
       Umsetzung: 911er Datenset finden und die Daten überprüfen auf ihre Konsistenz und einheitlichkeit.
 
  &nbsp;
