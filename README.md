@@ -65,12 +65,13 @@ Ausgehend von Ihren Erfahrungen vom 25.04, welche *features* brauchen noch mehr 
 
 Planen Sie nun Ihr Projekt, sodass die *Kern-Funktionalität* in 3 Sitzungen realisiert ist. Schreiben Sie dazu zunächst 3 solche übergeordneten Kern-Funktionalitäten auf: 
 
-1. Kern-Funktionalität
-2. Kern-Funktionalität
-3. Kern-Funktionalität
+1. Filter Algorithmus (herausfinden des passenden Modells, fortlaufende Anpassung des Modells)
+2. Frage und Antwort Ablauf zwischen Benutzer und Programm
+3. Datenbank mit Porsche Modelldaten (Datensatz erstellen/generieren)
 
 Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen Sie jetzt bereits, auch die Sitzung vom 16.5 und 23.5 zu planen (im Wissen, dass Sie kleine Anpassungen an Ihrer Planung vornehmen können).
 
+- [ ] ...
 - [ ] ...
 - [ ] ...
 - [ ] ...
