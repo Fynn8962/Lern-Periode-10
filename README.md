@@ -47,7 +47,7 @@ Als Letztes habe ich das Herausfiltern aus dem dictionary mithilfe gegebener Mer
 
 Ausgehend von Ihren Erfahrungen vom 25.04, welche *features* brauchen noch mehr Recherche? (Sie können auch mehrere AP für ein *feature* aufwenden.)
 
-- [x] Attribute, die nützlich wären, um die Auto Modelle zu identifizieren (📵)
+- [ ] Attribute, die nützlich wären, um die Auto Modelle zu identifizieren (📵)
 - [ ] F2, passenen Modell finden, gewisse Modelle Testen auf Umsetzbarkeit
 - [ ] F1 und F2, beim Filter was, wenn der Benutzer bei zwei Attributen z. B. "Ja" macht, wird das alte irgendwie überschrieben?
 - [ ] F3, wie erstelle ich den Datensatz mit wenig Aufwand und woher bekomme ich die Daten?
