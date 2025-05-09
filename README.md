@@ -55,7 +55,7 @@ Ausgehend von Ihren Erfahrungen vom 25.04, welche *features* brauchen noch mehr 
  &nbsp;
 
 **Heute habe ich...**                  
-...
+Zuerst habe ich mir einen Datensatz ausgesucht, welcher eine gute Grundlage bildet, um mit dem Projekt anzufangen. Die Attribute darin entsprachen einigermassen meiner Vorstellungen. Diesen Datensatz kann ich später auch noch abändern. Anschliessend habe ich zusammen mit dem Datensatz ein Modell zum Testen trainiert. Dieses Modell habe ich noch ohne jegliche Benutzerinteraktion erstellt. Die Genauigkeit lag bei ca. 98,80 % was sehr gut ist. 
 
 &nbsp;
 
@@ -71,10 +71,10 @@ Planen Sie nun Ihr Projekt, sodass die *Kern-Funktionalität* in 3 Sitzungen rea
 
 Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen Sie jetzt bereits, auch die Sitzung vom 16.5 und 23.5 zu planen (im Wissen, dass Sie kleine Anpassungen an Ihrer Planung vornehmen können).
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Programm stellt passend zum Datensatz Fragen über die Eigenschaften des Autos
+- [ ] Die Benutzeroberfläche ist GUI basiert
+- [ ] Benutzerantworten werden gespeichert und an das Modell weitergegeben
+- [ ] Bewertung der Ausgabe ob richtig oder Falsch
 
 &nbsp;
 
