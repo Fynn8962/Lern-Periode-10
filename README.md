@@ -12,8 +12,8 @@
         - Da ich ein Projekt mit ML machen will, möchte ich eine neue Datenbank-Technologie verwenden wie z. B. MongoDB.
     
 **3. Was wäre ein geeignetes Abschluss-Projekt?**                                         
-        - Ein Projekt mittels Python in Bezug auf ML. Es soll eine Art 'Porsche Akinator' sein. Das Modell hat einen Datensatz über Porsche Modelle.
-               Der Benutzer wird über Merkmale des Porsches abgefragt, an den er denkt. Findet das System einen Porsche, kann man eine Positive oder
+        - Ein Projekt mittels Python in Bezug auf ML. Es soll eine Art 'Auto Akinator' sein. Das Modell hat einen Datensatz über Auto Modelle.
+               Der Benutzer wird über Merkmale des Autos abgefragt, an den er denkt. Findet das System ein Auto, kann man eine Positive oder
               Negative Bewertung geben. Das System trainiert dadurch den Empfehlungs-Algorithmus.              
 
 &nbsp;
@@ -26,15 +26,15 @@ Welche 3 *features* sind die wichtigsten Ihres Projektes? Wie können Sie die Ma
       Fragesystem (mit GUI) zum Modell, mit JA/NEIN Möglichkeit oder Multiple Choice.                                 
       Umsetzung: Kleine Konsolen-Applikation mit ein paar Fragen, welche beantwortet werden können. Gesammelte Merkmale werden am Schluss ausgegeben.      
 - [x] *make or break feature* 2: Anhand Antworten ein oder mehrere Modelle herausfiltern.                             
-      Umsetzung: Ein einfaches Datenset mit 5-10 Porsche Modellen und gewissen Merkmalen. Einen Filteralgorithmus, welcher nach 10 Fragen das passendste Modell ausgibt.
-- [x] *make or break feature* 3: Das Datenset der Porsche Modelle enthält einheitliche und brauchbare Informationen über jedes Modell.                            
+      Umsetzung: Ein einfaches Datenset mit 5-10 Auto Modellen und gewissen Merkmalen. Einen Filteralgorithmus, welcher nach 10 Fragen das passendste Modell ausgibt.
+- [x] *make or break feature* 3: Das Datenset der Auto Modelle enthält einheitliche und brauchbare Informationen über jedes Modell.                            
       Umsetzung: Datenset finden und die Daten überprüfen auf ihre Konsistenz und Einheitlichkeit.
 
  &nbsp;
 
 **Heute habe ich...**                
 Zuerst habe ich die Grobplanung verfasst. Danach habe ich mir drei "make or break feature" überlegt, passend zu meinem Projekt. Das erste Feature, das ich angehen wollte, war das Multiple Choice Feature. Ich habe ganz simpel in einem Python File ein dictionary erstellt, in welchem Fragen und Antworten drinnen sind. Dann habe ich für jeden Fragetyp eine Abfrage und Antwortfunktion geschrieben. Am Schluss werden die gegebenen Antworten einfach nochmal ausgegeben.          
-Als Nächstes ich mir ein Bild davon gemacht, wie der Datensatz aussehen könnte. Ich habe passend zu den Fragen, die ich am Anfang definiert habe Attribute in einem Dictionary verfasst und diese mit Werten passend zum Porsche Modell versehrt. 
+Als Nächstes ich mir ein Bild davon gemacht, wie der Datensatz aussehen könnte. Ich habe passend zu den Fragen, die ich am Anfang definiert habe Attribute in einem Dictionary verfasst und diese mit Werten passend zum Auto Modell versehrt. 
 Als Letztes habe ich das Herausfiltern aus dem dictionary mithilfe gegebener Merkmale angeschaut. Ich habe mithilfe von KI die Filterfunktion erstellt, welche anhand von gegebenen Merkmalen ein Model aus dem Dictionary erkennt. Ich finde das Ergebnis nicht perfekt da es nicht viel Toleranz erlaubt aber für den Anfang zeigt es mir wie es gehen könnte.
 
 (Vergessen Sie nicht, den Code von heute auf github hochzuladen. Ggf. bietet es sich an, für die Code-Schnipsel einen eigenen Ordner `exploration` zu erstellen.)
@@ -47,7 +47,7 @@ Als Letztes habe ich das Herausfiltern aus dem dictionary mithilfe gegebener Mer
 
 Ausgehend von Ihren Erfahrungen vom 25.04, welche *features* brauchen noch mehr Recherche? (Sie können auch mehrere AP für ein *feature* aufwenden.)
 
-- [x] Attribute, die nützlich wären, um die Porsche Modelle zu identifizieren (📵)
+- [x] Attribute, die nützlich wären, um die Auto Modelle zu identifizieren (📵)
 - [ ] F2, passenen Modell finden, gewisse Modelle Testen auf Umsetzbarkeit
 - [ ] F1 und F2, beim Filter was, wenn der Benutzer bei zwei Attributen z. B. "Ja" macht, wird das alte irgendwie überschrieben?
 - [ ] F3, wie erstelle ich den Datensatz mit wenig Aufwand und woher bekomme ich die Daten?
@@ -67,7 +67,7 @@ Planen Sie nun Ihr Projekt, sodass die *Kern-Funktionalität* in 3 Sitzungen rea
 
 1. Frage und Antwort Ablauf zwischen Benutzer und Programm
 2. Filter Algorithmus (herausfinden des passenden Modells, fortlaufende Anpassung des Modells)
-4. Datenbank mit Porsche Modelldaten (Datensatz erstellen/generieren)
+4. Datenbank mit Auto Modelldaten (Datensatz erstellen/generieren)
 
 Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen Sie jetzt bereits, auch die Sitzung vom 16.5 und 23.5 zu planen (im Wissen, dass Sie kleine Anpassungen an Ihrer Planung vornehmen können).
 
