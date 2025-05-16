@@ -71,15 +71,15 @@ Planen Sie nun Ihr Projekt, sodass die *Kern-Funktionalität* in 3 Sitzungen rea
 
 Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen Sie jetzt bereits, auch die Sitzung vom 16.5 und 23.5 zu planen (im Wissen, dass Sie kleine Anpassungen an Ihrer Planung vornehmen können).
 
-- [ ] Mit Flask vertraut machen für das GUI
-- [ ] Mithilfe von Flask eine Web bassierte abfrage von Beispielfragen erstellen
-- [ ] Speichern der Antwroten des Benutzers
+- [x] Mit Flask vertraut machen für das GUI
+- [x] Mithilfe von Flask eine Web bassierte abfrage von Beispielfragen erstellen
+- [x] Speichern der Antwroten des Benutzers
 - [ ] Bewertung der Ausgabe ob richtig oder Falsch
 
 &nbsp;
 
-**Heute habe ich...**                      
-...
+**Heute habe ich...**                                            
+Ich habe mich zuerst mit Flask versucht vertraut zu machen und zu verstehen wie es funktioniert. Ich hatte Probleme, was das Grundkonstrukt war, also wie die Kommunikation zwischen Python und HTML funktioniert, doch durch ein Tutorial habe ich es Stück für Stück verstanden. Ich habe noch gewisse Testprojekte erstellt, um das gelernte direkt umzusetzen. Anschliessend habe ich angefangen mit meiner Umgebung, die ich brauche. Ich habe drei HTML Files erstellt und ein Python File. Das "fertige" Produkt funktioniert schon einigermassen, jedoch sieht es noch nicht schön.
 
 &nbsp;
 
