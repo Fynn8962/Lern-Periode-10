@@ -87,10 +87,11 @@ Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen
 
 ## 16.05
 
+- [ ] Datensatz finden welcher grundsätzlich passende Features hat
+- [ ] Datensatz einlesen und sich mit diesem Vertraut machen (welche Werte sind wichtig etc.)
+- [ ] Den Datensatz bearbeiten, vorbereiten um mit diesem Arbeiten zu können (ML)
 - [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+
 
 &nbsp;
 
