@@ -71,9 +71,9 @@ Planen Sie nun Ihr Projekt, sodass die *Kern-Funktionalität* in 3 Sitzungen rea
 
 Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen Sie jetzt bereits, auch die Sitzung vom 16.5 und 23.5 zu planen (im Wissen, dass Sie kleine Anpassungen an Ihrer Planung vornehmen können).
 
-- [ ] Programm stellt passend zum Datensatz Fragen über die Eigenschaften des Autos
-- [ ] Die Benutzeroberfläche ist GUI basiert (Flask)
-- [ ] Benutzerantworten werden gespeichert und an das Modell weitergegeben
+- [ ] Mit Flask vertraut machen für das GUI
+- [ ] Mithilfe von Flask eine Web bassierte abfrage von Beispielfragen erstellen
+- [ ] Speichern der Antwroten des Benutzers
 - [ ] Bewertung der Ausgabe ob richtig oder Falsch
 
 &nbsp;
