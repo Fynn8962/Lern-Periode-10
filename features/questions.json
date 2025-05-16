@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Welchen Fahrzeugstil hat das Auto?",
+    "attribute": "Vehicle Style",
+    "options": ["Coupe", "Convertible", "SUV", "Sedan", "Hatchback"]
+  },
+  {
+    "question": "Wie viel PS hat das Auto?",
+    "attribute": "Engine HP",
+    "options": ["Weniger als 250", "250-300", "Mehr als 300"]
+  },
+  {
+    "question": "Aus welchem Jahr stammt das Auto?",
+    "attribute": "Year",
+    "options": ["2011", "2012", "2013", "2014", "2015"]
+  },
+  {
+    "question": "Welcher Kategorie gehört das Auto an?",
+    "attribute": "Market Category",
+    "options": ["Luxury", "Performance", "High-Performance", "Factory Tuner", "Crossover"]
+  },
+  {
+    "question": "Welchen Getriebetyp hat das Auto?",
+    "attribute": "Transmission Type",
+    "options": ["MANUAL", "AUTOMATIC", "AUTOMATED_MANUAL", "DIRECT_DRIVE", "CVT"]
+  }
+]
