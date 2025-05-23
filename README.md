@@ -87,8 +87,8 @@ Ich habe mich zuerst mit Flask versucht vertraut zu machen und zu verstehen wie 
 
 ## 16.05
 
-- [ ] Datensatz finden welcher grundsätzlich passende Features hat
-- [ ] Datensatz einlesen und sich mit diesem Vertraut machen (welche Werte sind wichtig etc.)
+- [x] Datensatz finden welcher grundsätzlich passende Features hat
+- [x] Datensatz einlesen und sich mit diesem Vertraut machen (welche Werte sind wichtig etc.)
 - [ ] Den Datensatz bearbeiten, vorbereiten um mit diesem Arbeiten zu können (ML)
 - [ ] ...
 
@@ -96,7 +96,7 @@ Ich habe mich zuerst mit Flask versucht vertraut zu machen und zu verstehen wie 
 &nbsp;
 
 **Heute habe ich...**                          
- ...
+ Ich habe nach einem passenden Auto Datensatz gesucht, welcher es möglich macht, Autos anhand simpler Kriterien zu definieren. Das Problem ist, die meisten Datensätze haben zu viele ähnliche Autos mit zu spezifischen Daten. Nicht jeder weis wie viel PS, Hubraum oder Nm das Auto hat oder welches Getriebe es hat. Schlussendlich war das Ergebnis für mich nicht gut genug und ich musste neu anfangen. Ich hatte die Idee, den Akinator mit Pokémon zu machen. Dies ist zwar sehr ähnlich zum echten Akinator, aber geht viel einfacher als mit Autos. Ich habe einen Pokémon Datensatz auf Kaggle gefunden, der sich perfekt für diese Idee eignen würde. 
 
 &nbsp;
 
