@@ -104,15 +104,16 @@ Ich habe mich zuerst mit Flask versucht vertraut zu machen und zu verstehen wie 
 
 ## 23.05
 
-- [ ] Passt das gewählte Modell. Dieses Testen mit dem Datensatz
-- [ ] Modell in die restliche Umgebung integrieren
+- [x] Passt das gewählte Modell. Dieses Testen mit dem Datensatz
+- [x] Modell in die restliche Umgebung integrieren
+- [ ] Modell anpassen damit es gut Funktioniert
 - [ ] Fortlaufende Anpassung des Models indem das Resultat vom Benutzer bewertet wird.
-- [ ] ...
+  
 
 &nbsp;
 
 **Heute habe ich...**                   
-...
+Ich habe nochmal geprüft, ob ich mit der Wahl meines ML-Models immer noch einverstanden war, anschliessend habe ich das Modell in die Flask Python Umgebung eingebaut, was am meisten Zeit gebraucht hat, da es komplett neu für mich war. Ich hatte anfangs Probleme mit der genauen Umsetzung, doch mithilfe von Websites und KI habe ich es geschafft umzusetzen.  Ich habe dann herumprobiert wie das Modell die besten Werte bekommt, was genau ich am Datensatz noch anpassen muss etc. Mit diesem Punkt bin ich jedoch leider noch nicht fertig geworden, da mir die Zeit fehlte. 
 
 &nbsp;
 
