@@ -113,7 +113,7 @@ Ich habe mich zuerst mit Flask versucht vertraut zu machen und zu verstehen wie 
 &nbsp;
 
 **Heute habe ich...**                   
-Ich habe nochmal geprüft, ob ich mit der Wahl meines ML-Models immer noch einverstanden war, anschliessend habe ich das Modell in die Flask Python Umgebung eingebaut, was am meisten Zeit gebraucht hat, da es komplett neu für mich war. Ich hatte anfangs Probleme mit der genauen Umsetzung, doch mithilfe von Websites und KI habe ich es geschafft umzusetzen.  Ich habe dann herumprobiert wie das Modell die besten Werte bekommt, was genau ich am Datensatz noch anpassen muss etc. Mit diesem Punkt bin ich jedoch leider noch nicht fertig geworden, da mir die Zeit fehlte. 
+Ich habe nochmal geprüft, ob ich mit der Wahl meines ML-Models immer noch einverstanden war indem ich dden Datensatz zuerst mal normal mit dem Model benutzt habe. Anschliessend habe ich das Modell in die Flask Python Umgebung eingebaut, was am meisten Zeit gebraucht hat, da es komplett neu für mich war. Ich hatte anfangs Probleme mit der genauen Umsetzung, doch mithilfe von Websites und KI habe ich es geschafft umzusetzen.  Ich habe dann herumprobiert wie das Modell die besten Werte bekommt, was genau ich am Datensatz noch anpassen muss etc. Mit diesem Punkt bin ich jedoch leider noch nicht fertig geworden, da mir die Zeit fehlte. 
 
 &nbsp;
 
