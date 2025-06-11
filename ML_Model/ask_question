@@ -1,0 +1,46 @@
+import json
+
+with open("questions.json", "r") as file:
+    questions = json.load(file)
+
+def ask_user(questions):
+    answers = {}
+    for q in questions:
+        feature = q["feature"]
+        print(q["question"])
+
+        if q["type"] == "choice":
+                for i, choice in enumerate(q["choices"]):
+                    print(f"{i+1}: {choice}")
+                index = int(input("Deine Wahl (Nummer): ")) -1
+                answers[feature] = q["choices"][index]
+
+        elif q["type"] == "range_choice":
+            for i, choice in enumerate(q["choice"]):
+                print(f"{i+1}: {choice['label']}")
+            index = int(input("Deine Wahl (Nummer): ")) - 1
+            choice = q["choices"][index]
+            if feature == "Engine HP": 
+                answers[feature] = (choice["range"][0] + choice["range"][1]) // 2
+            elif feature == "Fuel Efficiency":
+                answers["highway MPG"] = choice["min_highway_mpg"]
+    return answers
+
+
+
+
+
+def build_feature(answers, df_columns, label_encoders):
+    input_vector = pd.DataFrame(columns=df_columns)
+    row = []
+    for col in df_columns:
+        val = answers.get(col, None)
+
+        if col in label_encoders:
+            val = label_encoders[col].transform([val])[0] if val is not None else 0
+        elif val is None:
+            val = 0
+        row.append(val)
+
+    input_vector.loc[0] = row
+    return input_vector

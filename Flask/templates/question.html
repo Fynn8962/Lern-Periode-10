@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head><title>Frage {{ qid+1 }}</title></head>
+<body>
+    <h2>{{ question.text }}</h2>
+    <form method="POST">
+        {% for option in question.options %}
+            <label><input type="radio" name="answer" value="{{ option }}" required> {{ option }}</label><br>
+        {% endfor %}
+        <button type="submit">Weiter</button>
+    </form>
+</body>
+</html>
