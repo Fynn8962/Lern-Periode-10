@@ -96,7 +96,7 @@ Ich habe mich zuerst mit Flask versucht vertraut zu machen und zu verstehen wie 
 &nbsp;
 
 **Heute habe ich...**                          
- Ich habe nach einem passenden Auto Datensatz gesucht, welcher es möglich macht, Autos anhand simpler Kriterien zu definieren. Das Problem ist, die meisten Datensätze haben zu viele ähnliche Autos mit zu spezifischen Daten. Nicht jeder weis wie viel PS, Hubraum oder Nm das Auto hat oder welches Getriebe es hat. Schlussendlich war das Ergebnis für mich nicht gut genug und ich musste neu anfangen. Ich hatte die Idee, den Akinator mit Pokémon zu machen. Dies ist zwar sehr ähnlich zum echten Akinator, aber geht viel einfacher als mit Autos. Ich habe einen Pokémon Datensatz auf Kaggle gefunden, der sich perfekt für diese Idee eignen würde. 
+ Ich habe nach einem passenden Auto Datensatz gesucht, welcher es möglich macht, Autos anhand simpler Kriterien zu definieren. Das Problem ist, die meisten Datensätze haben zu viele ähnliche Autos mit zu spezifischen Daten. Nicht jeder weis wie viel PS, Hubraum oder Nm das Auto hat oder welches Getriebe es hat. Schlussendlich war das Ergebnis für mich nicht gut genug und ich musste neu anfangen. Ich hatte die Idee, den Akinator mit Pokémon zu machen. Dies ist zwar sehr ähnlich zum echten Akinator, aber geht viel einfacher als mit Autos. Ich habe einen Pokémon Datensatz auf Kaggle gefunden, der sich perfekt für diese Idee eignen würde. Ich behalte dies jedoch nur im Hinterkopf und fahre vorerst mit einem nicht so passenden Auto Datensatz fort. 
 
 &nbsp;
 
@@ -113,7 +113,7 @@ Ich habe mich zuerst mit Flask versucht vertraut zu machen und zu verstehen wie 
 &nbsp;
 
 **Heute habe ich...**                   
-Ich habe nochmal geprüft, ob ich mit der Wahl meines ML-Models immer noch einverstanden war indem ich dden Datensatz zuerst mal normal mit dem Model benutzt habe. Anschliessend habe ich das Modell in die Flask Python Umgebung eingebaut, was am meisten Zeit gebraucht hat, da es komplett neu für mich war. Ich hatte anfangs Probleme mit der genauen Umsetzung, doch mithilfe von Websites und KI habe ich es geschafft umzusetzen.  Ich habe dann herumprobiert wie das Modell die besten Werte bekommt, was genau ich am Datensatz noch anpassen muss etc. Mit diesem Punkt bin ich jedoch leider noch nicht fertig geworden, da mir die Zeit fehlte. 
+Ich habe mit dem Datensatz, den ich vorbereitet habe, ein ML-Model erstellt. Dieses funktionierte überhaupt nicht. Am Schluss habe ich den Datensatz nochmal neu bearbeitet, habe gewisse Zeilen herausgelöscht und das Model neu trainiert. Anschliessend funktionierte das Model angemessen. Danach habe ich zuerst mal in der Konsole versucht, das Abfragesystem zu implementieren. Ich hatte Probleme, die Fragen an das ML-Model weiterzugeben, mithilfe von KI habe ich es anschliessend geschafft. Nun kann man Fragen beantworten und anhand dessen wird ein Auto vorhergesagt. Ich bin jedoch noch nicht zufrieden, da es sehr oberflächlich ist und irgendwie nichts Intelligentes dabei herumkommt. Ausserdem habe ich es auch nicht geschafft, das Ganze in Flask zu implementieren. 
 
 &nbsp;
 
