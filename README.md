@@ -123,15 +123,15 @@ Ich habe mit dem Datensatz, den ich vorbereitet habe, ein ML-Model erstellt. Die
 ## 06.06
 Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Allerdings gibt es sicher noch Teile, welche "schöner" werden können: Layout, Code, Architektur... beschreiben Sie kurz den Stand Ihres Projekts, und leiten Sie daraus 6 solche "kosmetischen" AP für den 6.6 und den 13.6 ab.
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [x] **Fortschritt aufholen**: ML-Model in Flask implementieren
+- [x] CSS für die Flask umgebung machen
+- [x] Grob: Code Formatieren, Layout, Variablen etc. 
 
 
 &nbsp;
 
 **Heute habe ich...**           
-...
+Heute habe ich zuerst mein Machine-Learning-Modell in eine Flask Umgebung eingebunden. Dies konnte ich mit meinen Grundkenntnissen und mithilfe von KI über die Struktur meiner Dateien schnell umsetzen. Anschliessend wollte ich ein CSS für die Website machen. Ich habe angefangen, jedoch war ich überhaupt nicht zufrieden wie es aussah und ich hatte keine Übersicht mehr in meinem CSS File. Also habe ich geschaut, wie gut das Design rauskommt, wenn ich es von Claude erstellen lasse und es war um einiges besser als mein erstelltes. Deshalb habe ich mich für das KI erstelle Design entschieden, dies noch etwas abgeändert und war zufrieden. Am Schluss bin ich noch kurz über alle Files drübergegangen und hab grobe Unschönheiten korrigiert, bin jedoch noch nicht in die Tiefe gegangen. 
 
 &nbsp;
 
@@ -139,8 +139,8 @@ Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Al
 
 ## 13.06
 
-- [ ] ...
-- [ ] ...
+- [ ] Code Layout feinschliff, (pep8)
+- [ ] Github überarbeiten, File Struktur etc. 
 
 &nbsp;
 
