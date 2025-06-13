@@ -90,7 +90,6 @@ Ich habe mich zuerst mit Flask versucht vertraut zu machen und zu verstehen wie 
 - [x] Datensatz finden welcher grundsätzlich passende Features hat
 - [x] Datensatz einlesen und sich mit diesem Vertraut machen (welche Werte sind wichtig etc.)
 - [ ] Den Datensatz bearbeiten, vorbereiten um mit diesem Arbeiten zu können (ML)
-- [ ] ...
 
 
 &nbsp;
@@ -145,7 +144,7 @@ Heute habe ich zuerst mein Machine-Learning-Modell in eine Flask Umgebung eingeb
 &nbsp;
 
 **Heute habe ich...**               
-... 
+Ich habe das Projekt aus der Coding Sicht fertig gemacht. Habe mittels Flake8 noch meine Python Files überprüft und mittels W3C die HTML Files gecheckt. Anschliessend habe ich das Projekt auf GitHub hochgeladen (`Car_Akinator`). Das einzige Problem, welches von Anfang an besteht, ist dass ich keinen guten Datensatz habe. Denn die Vorhersage funktioniert zwar, aber nur, wenn man die genauen Daten des Autos aus der Datenbank hat. Für das Akinatormässige Vorhersagen eines zufälligen Autos ist das Modell nicht imstande (durch zu ungenau Prediction und nicht guten Datensatz). Dies möchte ich nächste Woche noch angehen.  
 
 &nbsp;
 
@@ -154,7 +153,10 @@ Heute habe ich zuerst mein Machine-Learning-Modell in eine Flask Umgebung eingeb
 ## 20.06
 Was fehlt Ihrem fertigen Projekt noch, um es auszuliefern? Reicht die Zeit für ein *nice-to-have feature*?
 
-- [ ] ...
+- [ ] Passender Datensatz für mein Use Case finden.
+- [ ] Diesen Datensatz anpassen.
+- [ ] Alten Datensatz mit dem neuen ersetzen.
+- [ ] Testen wie die Prediction nun funktioniert. 
 
 Bereiten Sie in den verbleibenden 2 AP Ihre Präsentation vor
 
