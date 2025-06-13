@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <title>Auto-Empfehlung</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <h2>Beantworte die Fragen</h2>
+    <form action="/predict" method="post">
+        {% for q in questions %}
+            <label>{{ q.question }}</label><br>
+            {% if q.type == "choice" %}
+                <select name="{{ q.feature }}">
+                    {% for choice in q.choices %}
+                        <option value="{{ choice }}">{{ choice }}</option>
+                    {% endfor %}
+                </select><br><br>
+            {% elif q.type == "range_choice" %}
+                <select name="{{ q.feature }}">
+                    {% for choice in q.choices %}
+                        <option value="{{ ((choice.range[0] + choice.range[1]) // 2) if choice.range else choice.min_highway_mpg }}">
+                            {{ choice.label }}
+                        </option>
+                    {% endfor %}
+                </select><br><br>
+            {% endif %}
+        {% endfor %}
+        <button type="submit">Vorhersage</button>
+    </form>
+</body>
+</html>

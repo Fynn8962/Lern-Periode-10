@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "feature": "Transmission Type",
+      "question": "Welche Art von Getriebe hat Ihr Auto?",
+      "type": "choice",
+      "choices": ["MANUAL", "AUTOMATIC", "AUTOMATED_MANUAL"]
+    },
+    {
+      "feature": "Engine HP",
+      "question": "Wie viel PS hat Ihr Auto?",
+      "type": "range_choice",
+      "choices": [
+        {"label": "Wenig (unter 200 PS)", "range": [0, 199]},
+        {"label": "Mittel (200–300 PS)", "range": [200, 300]},
+        {"label": "Viel (über 300 PS)", "range": [301, 2000]}
+      ]
+    },
+    {
+      "feature": "Driven_Wheels",
+      "question": "Welche Antriebsart hat Ihr Auto?",
+      "type": "choice",
+      "choices": ["front wheel drive", "rear wheel drive", "all wheel drive"]
+    },
+    {
+      "feature": "Number of Doors",
+      "question": "Wie viele Türen hat Ihr Autp?",
+      "type": "choice",
+      "choices": [2, 4]
+    },
+    {
+      "feature": "Vehicle Size",
+      "question": "Welche Fahrzeuggrösse hat ihr Auto?",
+      "type": "choice",
+      "choices": ["Compact", "Midsize", "Large"]
+    },
+    {
+      "feature": "Vehicle Style",
+      "question": "Welche Karosserieform hat Ihr Auto?",
+      "type": "choice",
+      "choices": ["Coupe", "Convertible", "Sedan", "SUV", "Wagon"]
+    },
+    {
+      "feature": "Fuel Efficiency",
+      "question": "Wie Effizient ist ihr Auto?",
+      "type": "range_choice",
+      "choices": [
+        {"label": "Sehr wichtig (mind. 30 MPG)", "min_highway_mpg": 30},
+        {"label": "Wichtig (mind. 25 MPG)", "min_highway_mpg": 25},
+        {"label": "Nicht so wichtig", "min_highway_mpg": 0}
+      ]
+    }
+  ]
+}

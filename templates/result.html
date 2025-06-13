@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Ergebnis</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="result-container">
+        <h2>Empfohlenes Auto:</h2>
+        <p><strong>{{ result }}</strong></p>
+        <a href="/">Zurück</a>
+    </div>
+</body>
+</html>
