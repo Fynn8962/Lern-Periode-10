@@ -139,7 +139,7 @@ Heute habe ich zuerst mein Machine-Learning-Modell in eine Flask Umgebung eingeb
 
 ## 13.06
 
-- [ ] Code Layout feinschliff, (pep8)
+- [ ] Code Layout feinschliff, (flake8)
 - [ ] Github überarbeiten, File Struktur etc. 
 
 &nbsp;
