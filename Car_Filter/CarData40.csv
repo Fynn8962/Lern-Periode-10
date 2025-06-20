@@ -1,0 +1,113 @@
+﻿Make,Model,Horsepower,TopSpeed,Acceleration,FuelType,DriveType,Weight,PriceCategory,Seats
+Porsche,911 GT3 RS,520,312,3.2,Petrol,RWD,1430,Supercar,2
+Bugatti,Chiron,1500,420,2.4,Petrol,AWD,1995,Hypercar,2
+Ferrari,488 Pista,720,340,2.85,Petrol,RWD,1385,Supercar,2
+Tesla,Model S Plaid,1020,322,2.1,Electric,AWD,2162,Premium,5
+Lamborghini,Aventador SVJ,770,351,2.8,Petrol,AWD,1525,Hypercar,2
+McLaren,720S,710,341,2.9,Petrol,RWD,1419,Supercar,2
+Koenigsegg,Jesko,1600,482,2.5,Petrol,RWD,1420,Hypercar,2
+Aston Martin,Valkyrie,1160,355,2.6,Hybrid,RWD,1270,Hypercar,2
+BMW,M5 CS,635,305,3.0,Petrol,AWD,1825,Premium,4
+Audi,RS7 Sportback,600,305,3.6,Petrol,AWD,2060,Premium,5
+Ferrari,SF90 Stradale,1000,340,2.5,Hybrid,AWD,1570,Hypercar,2
+Porsche,Taycan Turbo S,761,260,2.6,Electric,AWD,2295,Premium,4
+McLaren,P1,916,350,2.8,Hybrid,RWD,1450,Hypercar,2
+Lamborghini,Huracan Performante,640,325,2.9,Petrol,AWD,1382,Supercar,2
+Ferrari,F8 Tributo,720,340,2.9,Petrol,RWD,1435,Supercar,2
+Bugatti,Veyron Super Sport,1200,431,2.4,Petrol,AWD,1888,Hypercar,2
+Mercedes-AMG,GT Black Series,730,325,3.2,Petrol,RWD,1520,Supercar,2
+Aston Martin,DBS Superleggera,725,340,3.4,Petrol,RWD,1693,Supercar,2
+BMW,i8,374,250,4.4,Hybrid,AWD,1535,Premium,2
+Audi,R8 V10 Plus,610,330,3.2,Petrol,AWD,1555,Supercar,2
+Nissan,GT-R Nismo,600,315,2.5,Petrol,AWD,1725,Supercar,2
+Ford,GT,647,348,3.5,Petrol,RWD,1326,Supercar,2
+Chevrolet,Corvette Z06,670,312,2.6,Petrol,RWD,1560,Supercar,2
+Dodge,Challenger SRT Hellcat,717,328,3.4,Petrol,RWD,2018,Premium,5
+Tesla,Model 3 Performance,480,261,3.1,Electric,AWD,1847,Premium,5
+Porsche,Cayman GT4,420,304,4.4,Petrol,RWD,1420,Premium,2
+McLaren,540C,533,320,3.4,Petrol,RWD,1311,Premium,2
+Lamborghini,Gallardo LP570-4,570,325,3.4,Petrol,AWD,1340,Supercar,2
+Ferrari,Roma,620,320,3.4,Petrol,RWD,1570,Premium,2
+Maserati,MC20,630,325,2.9,Petrol,RWD,1500,Supercar,2
+Jaguar,F-Type SVR,575,322,3.5,Petrol,AWD,1705,Premium,2
+Lotus,Evija,2000,320,2.8,Electric,AWD,1680,Hypercar,2
+Rimac,Nevera,1914,412,1.85,Electric,AWD,2150,Hypercar,2
+Pininfarina,Battista,1900,350,1.9,Electric,AWD,2200,Hypercar,2
+Pagani,Huayra BC,791,370,2.8,Petrol,RWD,1218,Hypercar,2
+Acura,NSX,573,307,3.1,Hybrid,AWD,1725,Premium,2
+Alfa Romeo,4C,240,258,4.1,Petrol,RWD,1050,Premium,2
+Bentley,Continental GT Speed,650,335,3.6,Petrol,AWD,2244,Premium,4
+Rolls-Royce,Wraith,624,250,4.4,Petrol,RWD,2435,Luxury,4
+Mercedes-AMG,One,1063,352,2.9,Hybrid,AWD,1695,Hypercar,2
+Gordon Murray,T.50,663,305,2.8,Petrol,RWD,986,Hypercar,3
+Ferrari,812 Superfast,800,340,2.9,Petrol,RWD,1525,Supercar,2
+Porsche,911 Turbo S,650,330,2.7,Petrol,AWD,1640,Premium,4
+McLaren,Artura,680,330,3.0,Hybrid,RWD,1395,Supercar,2
+Lamborghini,Huracan STO,640,310,3.0,Petrol,RWD,1339,Supercar,2
+BMW,M3 Competition,510,290,3.9,Petrol,RWD,1715,Premium,5
+Mercedes-AMG,C63 S,510,290,3.9,Petrol,RWD,1715,Premium,5
+Audi,RS6 Avant,600,280,3.6,Petrol,AWD,2075,Premium,5
+Porsche,Panamera Turbo S,630,315,3.1,Petrol,AWD,2050,Premium,4
+Tesla,Model X Plaid,1020,262,2.5,Electric,AWD,2459,Premium,7
+Lucid,Air Dream Edition,1111,270,2.5,Electric,AWD,2360,Premium,5
+BMW,iX M60,619,250,3.8,Electric,AWD,2585,Premium,5
+Mercedes-EQS,AMG 53,751,250,3.4,Electric,AWD,2480,Premium,5
+Audi,e-tron GT RS,637,250,3.3,Electric,AWD,2347,Premium,4
+Polestar,3,517,210,4.7,Electric,AWD,2584,Premium,5
+Genesis,GV70 Electrified,429,225,4.5,Electric,AWD,2201,Premium,5
+Cadillac,CT5-V Blackwing,668,322,3.4,Petrol,RWD,1834,Premium,5
+Lincoln,Aviator Black Label,494,210,5.5,Hybrid,AWD,2630,Luxury,7
+Lexus,LC500,471,270,4.4,Petrol,RWD,1940,Premium,2
+Infiniti,Q60 Red Sport,400,250,4.5,Petrol,AWD,1795,Premium,4
+Maserati,Quattroporte Trofeo,580,326,3.8,Petrol,AWD,1980,Luxury,5
+Bentley,Flying Spur Speed,635,333,3.8,Petrol,AWD,2437,Luxury,5
+Rolls-Royce,Ghost,563,250,4.8,Petrol,AWD,2490,Luxury,5
+Maybach,S680,621,250,4.5,Petrol,AWD,2355,Luxury,5
+Ferrari,Portofino M,620,320,3.5,Petrol,RWD,1664,Premium,2
+Aston Martin,DB11 AMR,630,334,3.7,Petrol,RWD,1770,Premium,2
+McLaren,GT,612,326,3.2,Petrol,RWD,1530,Premium,2
+Lotus,Emira,400,290,4.3,Petrol,RWD,1405,Premium,2
+Alpine,A110S,292,275,4.2,Petrol,RWD,1103,Premium,2
+Caterham,Seven 620R,310,255,2.8,Petrol,RWD,610,Premium,2
+Morgan,Plus Four,267,240,4.8,Petrol,RWD,1009,Premium,2
+TVR,Griffith,500,322,4.0,Petrol,RWD,1250,Premium,2
+Noble,M600,650,362,3.7,Petrol,RWD,1198,Supercar,2
+Donkervoort,D8 GTO-JD70,415,270,2.7,Petrol,RWD,700,Supercar,2
+KTM,X-Bow GTX,493,280,3.4,Petrol,RWD,1130,Supercar,2
+Ariel,Atom 4,320,270,2.8,Petrol,RWD,595,Premium,2
+BAC,Mono R,340,274,2.5,Petrol,RWD,555,Supercar,1
+Dallara,Stradale,400,280,3.25,Petrol,RWD,855,Supercar,2
+Radical,RXC Turbo,380,290,2.8,Petrol,RWD,950,Supercar,2
+Spyker,C8 Aileron,400,301,4.5,Petrol,RWD,1390,Premium,2
+Wiesmann,MF GT,550,290,3.9,Petrol,RWD,1380,Premium,2
+Gumpert,Apollo,700,360,3.0,Petrol,RWD,1100,Hypercar,2
+Zenvo,TSR-S,1177,325,2.8,Petrol,RWD,1495,Hypercar,2
+SSC,Tuatara,1750,455,2.5,Petrol,RWD,1247,Hypercar,2
+Hennessey,Venom F5,1817,484,2.6,Petrol,RWD,1360,Hypercar,2
+Saleen,S7 Twin Turbo,750,399,3.2,Petrol,RWD,1338,Hypercar,2
+Vector,W8,625,389,4.2,Petrol,RWD,1506,Hypercar,2
+Mosler,MT900S,435,315,3.1,Petrol,RWD,1199,Supercar,2
+Ultima,Evolution,1020,386,2.3,Petrol,RWD,950,Hypercar,2
+Caparo,T1,575,330,2.5,Petrol,RWD,470,Hypercar,2
+Elemental,RP1,320,265,2.8,Petrol,RWD,580,Premium,2
+Ginetta,G60-LT-P1,600,320,2.8,Petrol,RWD,1050,Supercar,2
+Lola,T70 Spyder,435,280,3.8,Petrol,RWD,820,Premium,2
+Melkus,RS2000,350,280,3.9,Petrol,RWD,975,Premium,2
+Artega,Scalo Superelletra,1020,300,3.6,Electric,AWD,1550,Supercar,2
+Rimac,C_Two,1888,412,1.9,Electric,AWD,1950,Hypercar,2
+NIO,EP9,1341,313,2.4,Electric,AWD,1735,Hypercar,2
+Lotus,Evora GT430,430,196,3.7,Petrol,RWD,1343,Premium,2
+Cupra,Formentor VZ5,390,250,4.2,Petrol,AWD,1739,Premium,5
+Seat,Leon Cupra R,310,250,4.9,Petrol,AWD,1395,Premium,5
+Skoda,Octavia RS,245,250,6.4,Petrol,AWD,1395,Premium,5
+Volkswagen,Golf R,320,250,4.7,Petrol,AWD,1624,Premium,5
+Mini,JCW GP,306,265,5.2,Petrol,AWD,1240,Premium,4
+Honda,Civic Type R,320,272,5.7,Petrol,RWD,1380,Premium,5
+Toyota,GR Yaris,268,230,5.5,Petrol,AWD,1280,Premium,5
+Subaru,WRX STI,310,255,5.2,Petrol,AWD,1568,Premium,5
+Mitsubishi,Lancer Evo X,295,250,5.4,Petrol,AWD,1590,Premium,5
+Hyundai,i30 N,280,250,6.1,Petrol,RWD,1429,Premium,5
+Ford,Focus RS,350,266,4.7,Petrol,AWD,1524,Premium,5
+Renault,Megane RS Trophy,300,260,5.7,Petrol,RWD,1430,Premium,5
+Peugeot,308 GTi,270,250,6.0,Petrol,RWD,1205,Premium,5
+Alfa Romeo,Giulia Quadrifoglio,510,307,3.9,Petrol,RWD,1655,Premium,5

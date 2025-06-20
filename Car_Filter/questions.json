@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "feature": "Horsepower",
+      "question": "Wie viel PS hat dein Auto?",
+      "type": "range_choice",
+      "choices": [
+        { "label": "Schwach (unter 300 PS)", "range": [0, 299] },
+        { "label": "Mittel (300-499 PS)", "range": [300, 499] },
+        { "label": "Stark (500-699 PS)", "range": [500, 699] },
+        { "label": "Sehr stark (700-999 PS)", "range": [700, 999] },
+        { "label": "Extrem (1000+ PS)", "range": [1000, 2000] }
+      ]
+    },
+    {
+      "feature": "TopSpeed",
+      "question": "Wie hoch ist die Höchstgeschwindigkeit (in km/h)?",
+      "type": "range_choice",
+      "choices": [
+        { "label": "Normal (bis 280 km/h)", "range": [0, 280] },
+        { "label": "Schnell (280-320 km/h)", "range": [281, 320] },
+        { "label": "Sehr schnell (320-360 km/h)", "range": [321, 360] },
+        { "label": "Extrem schnell (über 360 km/h)", "range": [361, 500] }
+      ]
+    },
+    {
+      "feature": "Acceleration",
+      "question": "Wie schnell beschleunigt dein Auto von 0 auf 100 km/h?",
+      "type": "range_choice",
+      "choices": [
+        { "label": "Langsam (über 4,0 Sekunden)", "range": [4.01, 10.0] },
+        { "label": "Gut (3,5-4,0 Sekunden)", "range": [3.5, 4.0] },
+        { "label": "Schnell (3,0-3,4 Sekunden)", "range": [3.0, 3.4] },
+        { "label": "Sehr schnell (2,5-2,9 Sekunden)", "range": [2.5, 2.9] },
+        { "label": "Extrem schnell (unter 2,5 Sekunden)", "range": [0.0, 2.4] }
+      ]
+    },
+    {
+      "feature": "FuelType",
+      "question": "Welchen Kraftstoff nutzt dein Auto?",
+      "type": "choice",
+      "choices": ["Petrol", "Electric", "Hybrid"]
+    },
+    {
+      "feature": "DriveType",
+      "question": "Welcher Antrieb ist verbaut?",
+      "type": "choice",
+      "choices": ["RWD", "AWD"]
+    },
+    {
+      "feature": "Weight",
+      "question": "Wie viel wiegt dein Auto (in kg)?",
+      "type": "range_choice",
+      "choices": [
+        { "label": "Leichtgewicht (unter 1300 kg)", "range": [0, 1299] },
+        { "label": "Normal (1300-1599 kg)", "range": [1300, 1599] },
+        { "label": "Schwer (1600-1999 kg)", "range": [1600, 1999] },
+        { "label": "Sehr schwer (über 2000 kg)", "range": [2000, 2500] }
+      ]
+    },
+    {
+      "feature": "PriceCategory",
+      "question": "In welcher Preisklasse liegt dein Auto?",
+      "type": "choice",
+      "choices": ["Premium", "Supercar", "Hypercar", "Luxury"]
+    },
+    {
+      "feature": "Seats",
+      "question": "Wie viele Sitzplätze hat dein Auto?",
+      "type": "choice",
+      "choices": [2, 3, 4, 5]
+    }
+  ]
+}
