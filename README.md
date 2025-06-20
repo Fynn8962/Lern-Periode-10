@@ -154,19 +154,15 @@ Ich habe das Projekt aus der Coding Sicht fertig gemacht. Habe mittels Flake8 no
 Was fehlt Ihrem fertigen Projekt noch, um es auszuliefern? Reicht die Zeit für ein *nice-to-have feature*?
 
 - [ ] Passender Datensatz für mein Use Case finden.
-- [ ] Diesen Datensatz anpassen.
-- [ ] Alten Datensatz mit dem neuen ersetzen.
-- [ ] Testen wie die Prediction nun funktioniert. 
-
-Bereiten Sie in den verbleibenden 2 AP Ihre Präsentation vor
-
-- [ ] Materialien der Präsentation vorbereiten
-- [ ] Präsentation üben
+- [x] Diesen Datensatz anpassen.
 
 &nbsp;
 
 **Heute habe ich...**             
-... 
+Ich habe versucht einen passenden Datensatz zu finden, wobei ich nicht erfolgreich war, da diese nie die richtigen Features hatten oder zu komplex waren. Anschliessend habe ich versucht, mit KI Datensätze zu erstellen, was funktionierte jedoch nur in kleinerer Menge. Das Training meines Models mit den Datensätzen war überhaupt nicht erfolgreich, ich hatte eine accuray von 30%-50% und bei jeder Vorhersage war es ein falsches Auto.
+Ich habe versucht die Abfrage zu verbessern, indem die Antworten eine kleine Range ergaben (statt 3 mögliche Antworten bei PS, 6) jedoch hat dies auch nichts gebracht. Dann habe ich versucht den Datensatz zu erweitern, wieder mithilfe von KI, leider ergab das dann kein schönes Resultat mehr, welches ich benutzen könnte. 
+
+Nach ewigen Herumprobieren suchen und testen habe ich mich dazu entschieden das mein Use-Case keinen Erfolg mehr haben wird auf dem jetzigen Weg. Das Model war einfach zu ungenau. Ich habe mithilfe von KI einen normalen Filter Algorithmus erstellt, um vielleicht noch etwas zu retten, dieser gibt jetzt die Top 3 Fahrzeuge anhand der Antworten des Benutzers aus, was natürlich nicht so spektakulär ist wie eine richtige Antwort. Dieses "Notfall Projekt" welches ich erstellt habe, damit ich während er Präsentation etwas zum Vorstellen habe, habe ich unter `Car_Filter` hochgeladen.
 
 
  Vergessen Sie nicht, die Unterlagen für Ihre Präsentation auf github hochzuladen.
